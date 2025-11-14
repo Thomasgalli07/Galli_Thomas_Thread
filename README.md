@@ -24,4 +24,11 @@ anche questo Thread usa sleep per simulare il tempo necessario a fare delle azio
 
 successivamente si andrà a creare l'UML per spiegare il collegamento che ha la classe madre con le classi figlie 
 
+##classe main
+la classe produzionePiastrelle
+-avvia il processo della preparazione delle piastrelle
+-crea i thread
+-li avvia
+-garantisce che il main aspetti la fine di entrambi
+-stampa la fine
 

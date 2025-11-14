@@ -21,3 +21,7 @@ il secondo Thread CotturaImpasto simula:
 -inizio della cottura dell'impasto
 -cottura completata
 anche questo Thread usa sleep per simulare il tempo necessario a fare delle azioni
+
+successivamente si andrà a creare l'UML per spiegare il collegamento che ha la classe madre con le classi figlie 
+
+
